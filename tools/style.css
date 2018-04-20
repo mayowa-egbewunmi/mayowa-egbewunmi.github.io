@@ -58,7 +58,7 @@ margin-bottom: 8px;
 }
 
 .main{
-width: 884px;
+width: 900px;
 padding-bottom: 30px;
 margin: 0 auto;
 background: url(../images/shadow.png) left bottom no-repeat;
@@ -67,7 +67,7 @@ background: url(../images/shadow.png) left bottom no-repeat;
 .mcontent{
 min-height: 153px;
 background:#ebebeb url(../images/main.gif) left top repeat-x;
-width: 698px;
+width: 750px;
 border-left: 1px solid #f7f7f7;
 margin: 0 auto;
 border-right: 1px solid #f7f7f7;
@@ -83,7 +83,7 @@ float: left;
 text-align: left;
 min-height: 110px;
 padding: 20px;
-width: 180px;
+width: 220px;
 }
 
 .box2{
@@ -95,7 +95,7 @@ float: left;
 text-align: left;
 min-height:110px;
 padding: 20px;
-width: 172px;
+width: 100px;
 }
 
 .box2 a{
